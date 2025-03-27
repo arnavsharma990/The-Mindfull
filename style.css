@@ -66,7 +66,7 @@ body {
     content: "";
     position: absolute;
     left: 0;
-    bottom: -2px; /* Positioning the underline */
+    bottom: -2px;
     width: 0%;
     height: 2px;
     background-color: white;
@@ -74,7 +74,7 @@ body {
 }
 
 .nav-links li a:hover {
-    color: #ffffff; /* Ensure the text remains white */
+    color: #ffffff; 
 }
 
 .nav-links li a:hover::after {
